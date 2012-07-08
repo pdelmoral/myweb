@@ -1,0 +1,16 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Me: Jose Ignacio Andres
+  Site: self
+  Twitter: @joserobleda
+  Location: Madrid
+
+/* THANKS */
+  hml5boilerplate http://es.html5boilerplate.com/
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
