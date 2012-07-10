@@ -67,8 +67,7 @@ td { vertical-align: top; }
 
 @font-face {  
 	font-family: 'Aller Standard Regular';  
-	src: url(../assets/fonts/Aller_Std_Rg.eot);  
-	src: local('Aller Standard Regular'), local('Aller Standard Bold'), url(../assets/fonts/Aller_Std_Rg.ttf) format('opentype');  
+	src: local('Aller Standard Regular'), local('Aller Standard Regular'), url(../assets/fonts/aller_std_rg-webfont.ttf) format('opentype');  
 }
 
 
@@ -139,7 +138,7 @@ footer, footer.wrapper { border-radius: 0 0 4px 4px; margin-bottom: 60px; }
 #contact li { margin-bottom: 1px; }
 #contact img { margin-right: 2px; vertical-align: text-bottom; }
 
-h1, h2, h3 { font-family: "Aller Standard Regular", serif;; }
+h1, h2, h3 { font-family: "Aller Standard Regular", serif;   text-shadow: 0 1px 0 rgba(0,0,0,0.01);}
 
 
 

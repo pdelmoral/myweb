@@ -13,7 +13,7 @@ button[disabled],input[disabled]{cursor:default}input[type="checkbox"],input[typ
 input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
 input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top;resize:vertical}input:invalid,textarea:invalid{background-color:#f0dddd}
-table{border-collapse:collapse;border-spacing:0}td{vertical-align:top}.chromeframe{margin:.2em 0;background:#ccc;color:black;padding:.2em 0}@font-face{font-family:'Aller Standard Regular';src:url(../assets/fonts/Aller_Std_Rg.eot);src:local('Aller Standard Regular'),local('Aller Standard Bold'),url(../assets/fonts/Aller_Std_Rg.ttf) format('opentype')}
+table{border-collapse:collapse;border-spacing:0}td{vertical-align:top}.chromeframe{margin:.2em 0;background:#ccc;color:black;padding:.2em 0}@font-face{font-family:'Aller Standard Regular';src:local('Aller Standard Regular'),local('Aller Standard Regular'),url(../assets/fonts/aller_std_rg-webfont.ttf) format('opentype')}
 .ir{display:block;border:0;text-indent:-999em;overflow:hidden;background-color:transparent;background-repeat:no-repeat;text-align:left;direction:ltr;*line-height:0}
 .ir br{display:none}.hidden{display:none!important;visibility:hidden}.visuallyhidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}
 .visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.invisible{visibility:hidden}
@@ -30,4 +30,4 @@ footer.wrapper .page-section{padding:10px 40px;border-bottom:0}footer,footer.wra
 .item h4{color:#262625;font-size:15px;font-style:italic;font-weight:400;margin:0}.item h3{color:#06A;font-size:22px;font-weight:400;letter-spacing:-1px;margin:0}
 .item ul{padding:0 0 0 15px}#me{float:left;width:510px}#me h1,h2{color:#475261;font-weight:400;letter-spacing:-1px}#me h1{font-size:42px;margin:16px 0 0 0}
 #me h2{font-size:20px;margin:0;letter-spacing:-.7px;text-transform:uppercase}#myphoto{border:1px solid #dedede;padding:10px;background-color:#FFF;float:left;margin-right:25px}
-#contact{float:right}#contact ul{list-style:none}#contact li{margin-bottom:1px}#contact img{margin-right:2px;vertical-align:text-bottom}h1,h2,h3{font-family:"Aller Standard Regular",serif}
+#contact{float:right}#contact ul{list-style:none}#contact li{margin-bottom:1px}#contact img{margin-right:2px;vertical-align:text-bottom}h1,h2,h3{font-family:"Aller Standard Regular",serif;text-shadow:0 1px 0 rgba(0,0,0,0.01)}
