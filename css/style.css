@@ -130,7 +130,7 @@ footer, footer.wrapper { border-radius: 0 0 4px 4px; margin-bottom: 60px; }
 
 #me { float: left; width: 510px; }
 #me h1, h2 { color: #475261; font-weight: 400; letter-spacing: -1px; }
-#me h1 { font-size: 42px; margin: 16px 0 0 0; }
+#me h1 { font-size: 36px; margin: 16px 0 0 0; }
 #me h2 { font-size: 20px; margin: 0; letter-spacing: -.7px; text-transform: uppercase; }
 #myphoto { border: 1px solid #DEDEDE; padding: 10px; background-color: #FFF; float: left; margin-right: 25px; }
 #contact { float: right; }
